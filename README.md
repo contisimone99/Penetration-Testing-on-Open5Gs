@@ -83,6 +83,6 @@ The exploit code is provided **solely for educational and research purposes**. *
 ---
 
 ## 🙏 Acknowledgements
-Developed by **Simone Conti** (GitHub [@contisimone99](https://github.com/contisimone99)), **Nicola Lepore**(GitHub [@NicolaLepore4](https://github.com/NicolaLepore4), **Francesco Copelli**(GitHub [@francescocopelli](https://github.com/francescocopelli)).
+Developed by **Simone Conti** (GitHub [@contisimone99](https://github.com/contisimone99)), **Nicola Lepore** (GitHub [@NicolaLepore4](https://github.com/NicolaLepore4), **Francesco Copelli** (GitHub [@francescocopelli](https://github.com/francescocopelli)).
 
 
