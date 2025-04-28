@@ -5,7 +5,7 @@
 ---
 
 ## ✨ Overview
-This repository contains the full write‑up, slide deck, and proof‑of‑concept exploit for a privilege‑escalation vulnerability that affects the **Open5GS** core network WebUI.  
+This repository contains the full write‑up, slide deck, and proof‑of‑concept exploit for a privilege‑escalation vulnerability that affects the **Open5GS** core network WebUI. This project is based on the paper [`Penetration Testing on 5G Core Network Web Technologies`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10622336). 
 By chaining two mis‑configurations — _unauthenticated MongoDB access_ and a _hard‑coded JWT/cookie signing secret_ (`change-me`) — an attacker can impersonate any administrator and obtain complete control of the 5G core via the WebUI.
 
 <p align="center"><img src="docs/attack_flow.png" width="640" alt="Attack flow diagram"></p>
@@ -82,7 +82,7 @@ The exploit code is provided **solely for educational and research purposes**. *
 
 ---
 
-## 🙏 Acknowledgements
-Developed by **Simone Conti** (GitHub [@contisimone99](https://github.com/contisimone99)), **Nicola Lepore** (GitHub [@NicolaLepore4](https://github.com/NicolaLepore4), **Francesco Copelli** (GitHub [@francescocopelli](https://github.com/francescocopelli)).
+## 🙏 Contributors
+Developed by **Simone Conti** (GitHub [@contisimone99](https://github.com/contisimone99)), **Nicola Lepore** (GitHub [@NicolaLepore4](https://github.com/NicolaLepore4)), **Francesco Copelli** (GitHub [@francescocopelli](https://github.com/francescocopelli)).
 
 
