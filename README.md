@@ -2,10 +2,6 @@
 
 [Canva Presentation](https://www.canva.com/design/DAGjec9O_Qw/sfKtxEG1HWuC7J32zqfn_w/edit?utm_content=DAGjec9O_Qw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-> **Status**: Public disclosure – 28&nbsp;April&nbsp;2025  
-> **PoC**: attack.py  
-> **Severity**: _High_ (Unauthenticated remote privilege escalation)
-
 ---
 
 ## ✨ Overview
