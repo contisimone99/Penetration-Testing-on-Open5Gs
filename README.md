@@ -24,7 +24,7 @@ By chaining two mis‑configurations — _unauthenticated MongoDB access_ an
 ## 🛠  Setup & Requirements
 ```shell
 # Clone
-$ git clone https://github.com/contisimone99/Penetration-Testing-on-Open5Gs
+$ git clone https://github.com/contisimone99/Penetration-Testing-on-Open5Gs.git
 $ cd Penetration-Testing-on-Open5Gs
 
 # (Recommended) create a virtual environment
