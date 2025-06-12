@@ -1,9 +1,5 @@
 # Penetration Testing on Open5GS
 
-[Canva Presentation](https://www.canva.com/design/DAGjec9O_Qw/sfKtxEG1HWuC7J32zqfn_w/edit?utm_content=DAGjec9O_Qw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
----
-
 ## ✨ Overview
 This repository contains the full write‑up, slide deck, and proof‑of‑concept exploit for a privilege‑escalation vulnerability that affects the **Open5GS** core network WebUI. This project is based on the paper [`Penetration Testing on 5G Core Network Web Technologies`](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10622336). 
 By chaining two mis‑configurations — _unauthenticated MongoDB access_ and a _hard‑coded JWT/cookie signing secret_ (`change-me`) — an attacker can impersonate any administrator and obtain complete control of the 5G core via the WebUI.
